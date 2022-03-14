@@ -1,0 +1,3 @@
+[submodule "docker-node-red"]
+	path = docker-node-red
+	url = https://github.com/roger10cassares/docker-node-red
